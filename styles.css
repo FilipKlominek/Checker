@@ -1,0 +1,20 @@
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top:200px;
+}
+td {
+    height: 64px;
+    width: 64px;
+}
+.black {
+    background-color: #252527;
+}
+.white {
+    background-color: #ffffff;
+}
